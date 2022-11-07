@@ -1,0 +1,2 @@
+# format_text_from_pdf4deepl
+pdfから得られたテキストをdeeplでの翻訳に適したフォーマットに変換します
