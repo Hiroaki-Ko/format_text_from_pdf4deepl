@@ -1,2 +1,3 @@
 # format_text_from_pdf4deepl
-pdfから得られたテキストをdeeplでの翻訳に適したフォーマットに変換します
+[このサイト](https://pdfcandy.com/jp/extract-text.htmlpdf)を用いてPDFから得られたテキストを、deeplでの翻訳に適したフォーマットのテキストに変換します。
+新ファイル生成までは書いてないので、当面はコンソール上で生成テキストをコピペするガバ仕様です。ゆるして
